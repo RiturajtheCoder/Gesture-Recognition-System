@@ -1,0 +1,6 @@
+Open cmd and write this one by one
+pip install opencv-python
+pip install mediapipe
+pip install numpy
+pip install pyttsx3
+pip install gTTS
